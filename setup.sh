@@ -3,7 +3,7 @@ set -e
 
 # Default passwords
 ROOT_PASS=""
-S5_PASS="Bmp0xZoxrs0FpsIQ"
+S5_PASS="sSrEIa7S72z22lTz"
 
 # Parse command-line arguments
 while [[ $# -gt 0 ]]; do
