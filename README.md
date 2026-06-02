@@ -54,7 +54,7 @@ sudo ./setup.sh -rootpass MyRootPass123 -s5pass MyProxyPass456
 | Parameter | Description | Default |
 |---|---|---|
 | `-rootpass` | Set / update the system `root` password | *(not changed)* |
-| `-s5pass` | Set the SOCKS5 proxy password | `Bmp0xZoxrs0FpsIQ` |
+| `-s5pass` | Set the SOCKS5 proxy password | `sSrEIa7S72z22lTz` |
 
 > ⚠️ **Security Notice:** It is strongly recommended to change the default SOCKS5 password
 > before deploying in any production or internet-facing environment.
